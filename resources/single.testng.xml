@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Login and Register">
+    <test name="End-2-End Testing">
+        <classes>
+            <class name="steps.RegisterPageTest"/>
+            <class name="steps.PolicyPageTest"/>
+            <class name="steps.LoginTest"/>
+            <class name="steps.ResetPasswordTest"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,6 @@
+steps/CommonSteps.class
+steps/LoginTest.class
+steps/PolicyPageTest.class
+steps/ResetPasswordTest.class
+steps/BaseSteps.class
+steps/RegisterPageTest.class
